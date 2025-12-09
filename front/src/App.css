@@ -1,0 +1,31 @@
+.app-container {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+.timer {
+  font-size: 24px;
+  margin: 10px 0;
+}
+
+.carousel img {
+  width: 300px;
+  height: 200px;
+  object-fit: cover;
+  margin: 0 10px;
+}
+
+.useful-links {
+  list-style: none;
+  padding: 0;
+}
+
+.useful-links li {
+  margin: 5px 0;
+}
+
+.useful-links a {
+  text-decoration: none;
+  color: #007bff;
+}
